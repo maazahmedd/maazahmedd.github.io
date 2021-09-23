@@ -5,7 +5,7 @@ The main concept of the website was to brand and showcase the film that my group
   
 Since this was the first website I was making, I had my eyes on three main things with regards to basics of the website; the website should work (of course), it shouldn't look bad to the eye (in terms of styling and positioning), and it shouldn't fall apart when I use it on a mobile, for instance.  
   
-Regarding the experience, I constantly had the theme in mind and I wanted to keep the website simple, but with good colors and fonts. This approach allowed me to enhance the experience in a way where the user would pay more attention to the content of the web pages, and that would allow me to brand my film in a simple and efficient manner.  
+Regarding the experience, I constantly had the theme in mind and I wanted to keep the website simple, but with good colors and fonts. This approach would allow me to enhance the experience in a way where the user would pay more attention to the content of the web pages, and that would allow me to brand my film in a simple and efficient manner.  
   
 ### Process
 To start off, I began adding html to my index.html file, which was the home page of my website. At this point, my goal was to have everything on the page. Whenever I would add an element to the html, I would simultaneously style it using CSS to ensure that the there was nothing wrong with the basic styling and positioning.  
