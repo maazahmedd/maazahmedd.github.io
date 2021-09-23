@@ -19,7 +19,4 @@ Making the third page was fun, but it was also the one I spent the most time on.
 For the last page, it was relatively simple, adding contacts and social media links. However, my friend saw me downloading images of icons and introduced me to [Font Awesome](https://fontawesome.com/) and I think this was the coolest thing ever, since it represented icons in the form of text and made things extremely simple to use.  
   
 ### Reflection
-
-  
-
-After I was done adding the html and CSS for a page, I would move to doing the same for the next page and so on. The entire process was about experimenting (when things didn't work) and learning (when I didn't know how to implement what I wanted to implement 
+I particularly feel that I exceeded my expectations while making this website, both in terms of the final result and in terms of what I really wanted to learn from the entire process. I think making a wireframe at the beginning was super helpful, because my website pretty much followed the wireframe except for some colors and positioning of elements. It was all about experimenting (when things didn't work) and learning (when I didn't know how to implement what I wanted to implement). It fits my theme, it is simple and it works better than I wanted it to, so it is safe to say that I am proud of the work I have done on this.
