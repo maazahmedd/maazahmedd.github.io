@@ -1,2 +1,3 @@
-# maazahmedd.github.io
-30MFF Website
+# Connections: The Movie
+## 30MFF Website
+## Site by Maaz Ahmed
