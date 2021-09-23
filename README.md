@@ -16,7 +16,10 @@ For the second page, I used a flexbox container once again with 3 different item
   
 Making the third page was fun, but it was also the one I spent the most time on. I made a slideshow but at this point, I had to take a lot of help from different resources. I had to use previous and next buttons, change the display properties of some of my slides and style them accordingly. This also meant that I introduce JavaScript at the same time to help me with supporting the functionalities of buttons and relevant elements. Here, I also applied a greyscale filter to the images and they would only return to the original color upon hovering.  
   
-For the last page, it was relatively simple, adding contacts and social media links. However, my friend saw me downloading images of icons and introduced me to [Font Awesome](https://fontawesome.com/)
+For the last page, it was relatively simple, adding contacts and social media links. However, my friend saw me downloading images of icons and introduced me to [Font Awesome](https://fontawesome.com/) and I think this was the coolest thing ever, since it represented icons in the form of text and made things extremely simple to use.  
+  
+### Reflection
+
   
 
 After I was done adding the html and CSS for a page, I would move to doing the same for the next page and so on. The entire process was about experimenting (when things didn't work) and learning (when I didn't know how to implement what I wanted to implement 
