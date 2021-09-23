@@ -10,7 +10,7 @@ Regarding the experience, I constantly had the theme in mind and I wanted to kee
 ### Process
 To start off, I began adding html to my index.html file, which was the home page of my website. At this point, my goal was to have everything on the page. Whenever I would add an element to the html, I would simultaneously style it using CSS to ensure that the there was nothing wrong with the basic styling and positioning.  
   
-Starting from the first page, I made myself comfortable with CSS flexbox container because I used these multiple times in my code, and once I was able to understand how they worked, it made thing very simple for me. I used the flexbox container twice, first for the video and next for a combination of text and image and then styled all of it accordingly.  
+Starting from the first page, I made myself comfortable with CSS flexbox container because I used these multiple times in my code, and once I was able to understand how they worked, it made things very simple for me. I used the flexbox container twice, first for the video and next for a combination of text and image and then styled all of it accordingly.  
   
 For the second page, I used a flexbox container once again with 3 different items in the "row" direction. This essentially allowed me to split my page into 3 parts where I added the pictures, name and descriptions of all members of the group. I also used flex properties to wrap the text and the image as the screen got smaller.  
   
