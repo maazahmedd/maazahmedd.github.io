@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<!-- setting the title and linking the css file -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>30MFF</title>
 		<link rel="stylesheet" href="style.css"/>
 	</head>
 
 	<body>
+		<!-- creating the top navigation bar -->
 		<div class="topnav">
 		  	<a class="mff">30MFF - CONNECTIONS</a>
 		  	<a href="index.html">HOME</a>
@@ -15,10 +17,15 @@
 		  	<a href="contact.html">CONTACT US</a>
 		</div>
 
+		<!-- main heading of the page -->
 		<h1 class="main-headings">BEHIND THE SCENES</h1>
 
-		<div class="slideshow-container">
+		<!-- Note: Some of the elements for the carousel/slideshow are inspired by W3Schools -->
 
+		<!-- creating the photo carousel/slideshow -->
+		<div class="slides-container">
+
+			<!-- it has 5 different slides with an image and the number of the image -->
 			<div class="mySlides fade">
 			  <div class="numbertext">1 / 4</div>
 			  <img class="bts-images" src="bts/bts1.jpg"/>
@@ -39,21 +46,27 @@
 			  <img class="bts-images" src="bts/bts4.jpg"/>
 			</div>
 
-			<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-			<a class="next" onclick="plusSlides(1)">&#10095;</a>
+			<!-- creating the next and previous buttons for slides -->
+			<!-- also calling plus_sides function (defined in myscript.js) when the previous or next button is clicked -->
+			<a class="prev" onclick="plus_slides(-1)">&#10094;</a>
+			<a class="next" onclick="plus_slides(1)">&#10095;</a>
 
+			<!-- creating dots to move between slides -->
+			<!-- also calling the current_slide function (defined in myscript.js) when the dot is clicked to move to that particular slide -->
 			<div class="my-dots">
-			  <span class="dot" onclick="currentSlide(1)"></span> 
-			  <span class="dot" onclick="currentSlide(2)"></span> 
-			  <span class="dot" onclick="currentSlide(3)"></span>
-			  <span class="dot" onclick="currentSlide(4)"></span>  
+			  <span class="dot" onclick="current_slide(1)"></span> 
+			  <span class="dot" onclick="current_slide(2)"></span> 
+			  <span class="dot" onclick="current_slide(3)"></span>
+			  <span class="dot" onclick="current_slide(4)"></span>  
 			</div>
 
 		</div>
 		<br>
 
+		<!-- linking the javascript file -->
 		<script src="myscript.js"></script>
 
+		<!-- creating the footer -->
 		<div class="footer">
 			<div class="helpus">
 				HELP US IMPROVE
